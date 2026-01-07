@@ -27,3 +27,4 @@ This project showcases a clean UI layout with API categories, blog sections, cal
 - **Tailwind CSS (CDN)**
 - **Font Awesome Icons**
 
+![img](08pic.png)
